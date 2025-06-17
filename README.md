@@ -53,11 +53,11 @@ Cloud/Infra:    Firebase | Linux | REST APIs
 🛠️ GitHub Repos on Penetration Testing, Python Automation, and ML Projects (scroll down)
 
 📫 Connect With Me
-🌐 Website: www.upskillx.tech
+🌐 Website: www.upskillx.vercel.app
 
-💼 LinkedIn: Your LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-zulfiqar-khan-b22933156/
 
-📧 Email: your.email@example.com
-
+📧 Email: muh.zulfiar.khan@gmail.com
+```
 <p align="center"> <em>“Secure minds build secure systems. Educate. Build. Defend.”</em> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical" /> </p> ```
