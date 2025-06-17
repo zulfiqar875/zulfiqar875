@@ -20,7 +20,7 @@
 ### 🛡️ Areas of Expertise
 
 - 💻 **Cyber Security & Penetration Testing**
-- 🔐 **Information Security & Ethical Hacking**
+- 🔐 **Information Security & Ethical Hacking & IoT**
 - 🌐 **Full Stack Web Development**
 - 🤖 **Machine Learning & AI Fundamentals**
 - 🧪 **IT Support, Infrastructure, and Automation**
@@ -39,11 +39,11 @@
 ### 🛠️ Tech Stack
 
 ```bash
-Languages:      Python | JavaScript | HTML/CSS | Bash
-Frameworks:     Flask | Node.js | React
-Tools:          Wireshark | Nmap | Burp Suite | Metasploit | Docker | Git
-ML Tools:       Scikit-learn | TensorFlow | Pandas | Jupyter
-Cloud/Infra:    Firebase | Linux | REST APIs
+Languages:      Python | JavaScript | HTML/CSS | Bash | Php 
+Frameworks:     Flask | Node.js | React | laravel | Django
+Tools:          Wireshark | Nmap | Burp Suite | Metasploit | Docker | Git | Ghidra | IDA | JohnRipper | Hydra 
+ML Tools:       Scikit-learn | TensorFlow | Pandas | Jupyter | Anaconda
+Cloud/Infra:    Firebase | Linux | REST APIs | EC2
 
 👨‍💻 Projects & Initiatives
 🔧 UpSkillX — Building the future of hands-on tech education
