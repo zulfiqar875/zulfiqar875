@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/elliot-style.png" alt="Cyber Aesthetic" width="300"/>
+  <img src="[https://github.com/YourUsername/YourRepo/blob/main/assets/elliot-style.png](https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif)" alt="Cyber Aesthetic" width="300"/>
 </p>
 
 ---
