@@ -1,50 +1,63 @@
-<h1 align="center">Hi 👋, I'm Muhammad Zulfiqar KHan</h1>
-
-<h3 align="center">Cyber Security Instructor | Machine Learning | Web Development | IT Professional</h3>
-
-<p align="center">
-  <strong>Certified by:</strong> Google, IBM, Alison, Inovvista, Stanford University (via Coursera), and more
-</p>
-
-<p align="center">
-  <em>Specialized in Cyber Security, Information Security, IT Support, and Machine Learning.</em>
-</p>
+<h1 align="center">Hi 👋, I'm Muhammad Zulfiqar Khan</h1>
+<h3 align="center">Cyber Security Specialist | Educator | Founder of UpSkillX | Ex-EU Project Contributor</h3>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/UsamaMatrix/UsamaMatrix/blob/main/assets/elliot.png" alt="Elliot" width="300"/>
+  <img src="https://github.com/YourUsername/YourRepo/blob/main/assets/elliot-style.png" alt="Cyber Aesthetic" width="300"/>
 </p>
 
 ---
 
-### 🛡️ Certifications & Achievements:
+### 🧠 About Me
 
-- ✅ Google IT Support & Fundamentals  
-- ✅ Machine Learning by Stanford University (Coursera)  
-- ✅ Cyber Security Certifications from Google, IBM, Alison, Inovvista  
-- ✅ CEH v11 & v12, OSCP, CISO – and many more  
-- ✅ Real-world Penetration Testing and Red Teaming Experience  
+🚀 I'm a passionate IT Developer and Cyber Security Educator with a mission to empower individuals through **emerging tech skills**.  
+🌐 Founder of **[UpSkillX](#)** — a growing platform delivering practical knowledge in Cyber Security, Machine Learning, and Web Development.  
+🌍 Former member of the **SAFE-RH Project**, an EU-funded initiative focused on digital innovation and security.
 
 ---
 
-### 💻 Tech Toolbox:
+### 🛡️ Areas of Expertise
 
-- **Languages:** Python, JavaScript, Bash, HTML/CSS  
-- **Security Tools:** Burp Suite, Wireshark, Nmap, Metasploit  
-- **Web:** Flask, Node.js, React, Firebase  
-- **Machine Learning:** scikit-learn, TensorFlow, Pandas  
-- **Others:** Linux, Git, Docker, REST APIs
-
----
-
-### 📫 Connect With Me
-
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio / Website](#)  
-- 📧 Email: your.email@example.com  
+- 💻 **Cyber Security & Penetration Testing**
+- 🔐 **Information Security & Ethical Hacking**
+- 🌐 **Full Stack Web Development**
+- 🤖 **Machine Learning & AI Fundamentals**
+- 🧪 **IT Support, Infrastructure, and Automation**
 
 ---
 
-> _“Hack the system, secure the future.”_
+### 📜 Certifications
 
+- ✅ **Google IT Support & IT Fundamentals**
+- ✅ **Machine Learning – Stanford University (via Coursera)**
+- ✅ **Cyber Security Courses – Google, IBM, Alison, Inovvista**
+- ✅ **CEH v11/v12, OSCP, CISO** *(and others)*
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+Languages:      Python | JavaScript | HTML/CSS | Bash
+Frameworks:     Flask | Node.js | React
+Tools:          Wireshark | Nmap | Burp Suite | Metasploit | Docker | Git
+ML Tools:       Scikit-learn | TensorFlow | Pandas | Jupyter
+Cloud/Infra:    Firebase | Linux | REST APIs
+
+👨‍💻 Projects & Initiatives
+🔧 UpSkillX — Building the future of hands-on tech education
+
+🔐 SAFE-RH (EU Funded) — Security & Access in Digital Health Systems
+
+🛠️ GitHub Repos on Penetration Testing, Python Automation, and ML Projects (scroll down)
+
+📫 Connect With Me
+🌐 Website: www.upskillx.tech
+
+💼 LinkedIn: Your LinkedIn
+
+📧 Email: your.email@example.com
+
+<p align="center"> <em>“Secure minds build secure systems. Educate. Build. Defend.”</em> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical" /> </p> ```
