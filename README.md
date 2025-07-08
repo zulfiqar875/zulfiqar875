@@ -72,7 +72,7 @@
       <sub><b>ACME Int.</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://www.hec.gov.pk/english/universities/PublishingImages/Sir%20Syed%20Case%20Institute.jpg" width="80" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC63Hrt4cuVNkqzh2_7ufbRz15mefIk4KPIoGl5IKBZcwp2kApPz664oa8wW1pbeL1pF0&usqp=CAU" width="80" /><br/>
       <sub><b>CASE Institute</b></sub>
     </td>
     <td align="center" width="120">
