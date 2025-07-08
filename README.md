@@ -53,6 +53,41 @@
 | **NAVTTC Pakistan**                       | Cyber Security Instructor | Ongoing              | - Cybersecurity training<br>- Part of national skilling program                       |
 
 
+
+
+## 🤝 Collaborations & Affiliations
+
+<p align="center">
+  Here are some of the amazing organizations, clients, and partners I've worked with:
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/100px-Flag_of_Europe.svg.png" width="80" /><br/>
+      <sub><b>EU Project</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/100px-Markdown-mark.svg.png" width="80" /><br/>
+      <sub><b>ACME Int.</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Graduation_hat.svg/100px-Graduation_hat.svg.png" width="80" /><br/>
+      <sub><b>CASE Institute</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Academic_Cap.svg/100px-Academic_Cap.svg.png" width="80" /><br/>
+      <sub><b>HITEC Univ</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Computer_font_awesome.svg/100px-Computer_font_awesome.svg.png" width="80" /><br/>
+      <sub><b>NAVTTC</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+
 ### 🛠️ Tech Stack
 ```bash
 Languages:      Python | JavaScript | HTML/CSS | Bash | Php 
