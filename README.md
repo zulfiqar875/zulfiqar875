@@ -38,9 +38,9 @@
 ### 💼 Experience
 | 🏢 Company                           | 📌 Role                          | 📅 Duration          | 💡 Key Responsibilities                                                                                     |
 | ------------------------------------ | -------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 🇪🇺 **SAFE-RH – EU-Funded Project** | **IoT Security & ML Researcher** | Nov 2021 – Sept 2024 | - Configured Tiny ToT with Edge Nodes<br>- Secured data transmission<br>- Machine Learning for early alerts |
-| 🖥 **ACME International**            | **Full Stack Web Developer**     | July 2021 – Nov 2021 | - React + Node.js + MySQL apps<br>- API integration and UX<br>- Agile team collaboration                    |
-| 🌐 **CANETECHNOLOGIES**              | **Web Developer**                | Earlier Role         | - Responsive websites in PHP<br>- SEO and performance tuning<br>- Deployment & testing                      |
+| **SAFE-RH – EU-Funded Project** | **IoT Security & ML Researcher** | Nov 2021 – Sept 2024 | - Configured Tiny ToT with Edge Nodes<br>- Secured data transmission<br>- Machine Learning for early alerts |
+| **ACME International**            | **Full Stack Web Developer**     | July 2021 – Nov 2021 | - React + Node.js + MySQL apps<br>- API integration and UX<br>- Agile team collaboration                    |
+| **CANETECHNOLOGIES**              | **Web Developer**                | Earlier Role         | - Responsive websites in PHP<br>- SEO and performance tuning<br>- Deployment & testing                      |
 
 
 
@@ -48,9 +48,9 @@
 
 | 🏫 Institution                               | 📌 Role                   | 📅 Duration          | 💡 Highlights                                                                         |
 | -------------------------------------------- | ------------------------- | -------------------- | ------------------------------------------------------------------------------------- |
-| 🎓 **Sir Syed CASE Institute of Technology** | Lecturer – Cyber Security | Sept 2023 – Mar 2025 | - Taught Cybersecurity & Network Security<br>- Supervised projects<br>- Led workshops |
-| 🎓 **HITEC University**                      | Lecturer – Cyber Security | Mar 2025 – Present   | - PenTesting & IoT Security<br>- Graduate student mentorship                          |
-| 🧠 **NAVTTC Pakistan**                       | Cyber Security Instructor | Ongoing              | - Cybersecurity training<br>- Part of national skilling program                       |
+| **Sir Syed CASE Institute of Technology** | Lecturer – Cyber Security | Sept 2023 – Mar 2025 | - Taught Cybersecurity & Network Security<br>- Supervised projects<br>- Led workshops |
+| **HITEC University**                      | Lecturer – Cyber Security | Mar 2025 – Present   | - PenTesting & IoT Security<br>- Graduate student mentorship                          |
+| **NAVTTC Pakistan**                       | Cyber Security Instructor | Ongoing              | - Cybersecurity training<br>- Part of national skilling program                       |
 
 
 ### 🛠️ Tech Stack
