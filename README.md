@@ -34,10 +34,16 @@
 - ✅ **Cyber Security Courses – Google, IBM, Alison, Inovvista**
 - ✅ **CEH v11/v12, OSCP, CISO** *(and others)*
 
----
+
+
+| 🏫 Institution                               | 📌 Role                   | 📅 Duration          | 💡 Highlights                                                                         |
+| -------------------------------------------- | ------------------------- | -------------------- | ------------------------------------------------------------------------------------- |
+| 🎓 **Sir Syed CASE Institute of Technology** | Lecturer – Cyber Security | Sept 2023 – Mar 2025 | - Taught Cybersecurity & Network Security<br>- Supervised projects<br>- Led workshops |
+| 🎓 **HITEC University**                      | Lecturer – Cyber Security | Mar 2025 – Present   | - PenTesting & IoT Security<br>- Graduate student mentorship                          |
+| 🧠 **NAVTTC Pakistan**                       | Cyber Security Instructor | Ongoing              | - Cybersecurity training<br>- Part of national skilling program                       |
+
 
 ### 🛠️ Tech Stack
-
 ```bash
 Languages:      Python | JavaScript | HTML/CSS | Bash | Php 
 Frameworks:     Flask | Node.js | React | laravel | Django
