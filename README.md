@@ -75,5 +75,17 @@ Cloud/Infra:    Firebase | Linux | REST APIs | EC2
 
 📧 Email: muh.zulfiar.khan@gmail.com
 ```
-<p align="center"> <em>“Secure minds build secure systems. Educate. Build. Defend.”</em> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zulfiqar875&show_icons=true&theme=radical" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=radical" /> </p>
+<p align="center"><em>“Secure minds build secure systems. Educate. Build. Defend.”</em></p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zulfiqar875&show_icons=true&theme=radical" />
+    </td>
+    <td><b>|</b></td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=zulfiqar875&theme=radical" />
+    </td>
+  </tr>
+</table>
+
