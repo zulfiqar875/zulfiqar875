@@ -68,20 +68,28 @@
       <sub><b>EU Project</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/100px-Markdown-mark.svg.png" width="80" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShg1m4ggEL7GriZ9rkFRaAXU93VVGPydhPmQ&s" width="80" /><br/>
       <sub><b>ACME Int.</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Graduation_hat.svg/100px-Graduation_hat.svg.png" width="80" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShg1m4ggEL7GriZ9rkFRaAXU93VVGPydhPmQ&s" width="80" /><br/>
       <sub><b>CASE Institute</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Academic_Cap.svg/100px-Academic_Cap.svg.png" width="80" /><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/b/b3/HITEC_University_Logo.jpg" width="80" /><br/>
       <sub><b>HITEC Univ</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Computer_font_awesome.svg/100px-Computer_font_awesome.svg.png" width="80" /><br/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/b/b3/HITEC_University_Logo.jpg" width="80" /><br/>
       <sub><b>NAVTTC</b></sub>
+    </td>
+     <td align="center" width="120">
+      <img src="https://www.umgc.edu/content/dam/umgc-gmc/images/ECCouncilLogo.jpg" width="80" /><br/>
+      <sub><b>EC-Council</b></sub>
+    </td>
+     <td align="center" width="120">
+      <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/media/coursera-rebrand-logo-square.png?auto=format%2Ccompress&dpr=1" width="80" /><br/>
+      <sub><b>Coursera</b></sub>
     </td>
   </tr>
 </table>
