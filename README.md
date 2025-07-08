@@ -35,6 +35,16 @@
 - ✅ **CEH v11/v12, OSCP, CISO** *(and others)*
 
 
+### 💼 Experience
+| 🏢 Company                           | 📌 Role                          | 📅 Duration          | 💡 Key Responsibilities                                                                                     |
+| ------------------------------------ | -------------------------------- | -------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 🇪🇺 **SAFE-RH – EU-Funded Project** | **IoT Security & ML Researcher** | Nov 2021 – Sept 2024 | - Configured Tiny ToT with Edge Nodes<br>- Secured data transmission<br>- Machine Learning for early alerts |
+| 🖥 **ACME International**            | **Full Stack Web Developer**     | July 2021 – Nov 2021 | - React + Node.js + MySQL apps<br>- API integration and UX<br>- Agile team collaboration                    |
+| 🌐 **CANETECHNOLOGIES**              | **Web Developer**                | Earlier Role         | - Responsive websites in PHP<br>- SEO and performance tuning<br>- Deployment & testing                      |
+
+
+
+###🎓 Academic Experience
 
 | 🏫 Institution                               | 📌 Role                   | 📅 Duration          | 💡 Highlights                                                                         |
 | -------------------------------------------- | ------------------------- | -------------------- | ------------------------------------------------------------------------------------- |
