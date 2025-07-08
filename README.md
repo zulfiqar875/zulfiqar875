@@ -72,7 +72,7 @@
       <sub><b>ACME Int.</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShg1m4ggEL7GriZ9rkFRaAXU93VVGPydhPmQ&s" width="80" /><br/>
+      <img src="https://www.hec.gov.pk/english/universities/PublishingImages/Sir%20Syed%20Case%20Institute.jpg" width="80" /><br/>
       <sub><b>CASE Institute</b></sub>
     </td>
     <td align="center" width="120">
@@ -80,7 +80,7 @@
       <sub><b>HITEC Univ</b></sub>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/en/b/b3/HITEC_University_Logo.jpg" width="80" /><br/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfU1gOQK_YNrp6i0oqd_Ljq065ySGd9Uo8g&s" width="80" /><br/>
       <sub><b>NAVTTC</b></sub>
     </td>
      <td align="center" width="120">
