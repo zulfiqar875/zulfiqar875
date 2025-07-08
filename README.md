@@ -14,6 +14,8 @@
 🚀 I'm a passionate IT Developer and Cyber Security Educator with a mission to empower individuals through **emerging tech skills**.  
 🌐 Founder of **[UpSkillX](https://upskillx.vercel.app/)** — a growing platform delivering practical knowledge in Cyber Security, Machine Learning, and Web Development.  
 🌍 Former member of the **SAFE-RH Project**, an EU-funded initiative focused on digital innovation and security.
+🌍 Former Cybersecurity instructure of the **NAVTTAC**.
+🌐 **[Google Profile](https://sites.google.com/view/zulfiqar-khan)**
 
 ---
 
